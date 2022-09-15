@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat
 
-[ Clique aqui para acessar](htttps://hilucassilva.github.io/nlw-esports-explore)
+[ Clique aqui para acessar](htttps://hilucassilva.github.io/nlw-esports-explore/)
 
 
 
